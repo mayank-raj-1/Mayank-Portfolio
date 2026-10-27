@@ -1,0 +1,12 @@
+# Salesforce CLI local data
+
+.sf/
+
+# Resume and personal documents
+
+documents/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
